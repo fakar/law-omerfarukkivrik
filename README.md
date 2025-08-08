@@ -1,4 +1,4 @@
-# Sarah Mitchell - Attorney at Law Portfolio Website
+# Av. Ömer Faruk Kıvrık - Attorney at Law Portfolio Website
 
 A professional, responsive single-page portfolio website for a lawyer, featuring a modern design with legal motifs and elegant typography.
 
